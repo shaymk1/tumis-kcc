@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
+body{
+    background-image: url("./images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: "Poppins", sans-serif;
+}
+
+.header{
+    color:white;
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: "poppin" , sans-serif;
+    font-weight: 400;
+    font-style: very-strong;
+} 
+
+
+.first-paragraph{
+color:whitesmoke;
+font-size:1rem;
+font-weight:800;
+font-family:poppin;
+}
+
+.span {
+    font-size:2rem ;
+    font-style:bold ;
+    font-weight: 8px;
+    color: beige;
+
+}
+
+
